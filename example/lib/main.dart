@@ -21,9 +21,10 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         brightness: Brightness.dark,
         textTheme: const TextTheme(
-          bodyText1: TextStyle(),
-          bodyText2: TextStyle(),
-        ).apply(
+                // bodyText1: TextStyle(),
+                // bodyText2: TextStyle(),
+                )
+            .apply(
           bodyColor: Colors.white,
           displayColor: Colors.white,
         ),
