@@ -1,10 +1,10 @@
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:ffmpeg_kit_16kb/ffmpeg_kit.dart';
-import 'package:ffmpeg_kit_16kb/ffmpeg_kit_config.dart';
-import 'package:ffmpeg_kit_16kb/ffprobe_kit.dart';
-import 'package:ffmpeg_kit_16kb/statistics.dart';
+import 'package:ffmpeg_kit_min_gpl_unify/ffmpeg_kit.dart';
+import 'package:ffmpeg_kit_min_gpl_unify/ffmpeg_kit_config.dart';
+import 'package:ffmpeg_kit_min_gpl_unify/ffprobe_kit.dart';
+import 'package:ffmpeg_kit_min_gpl_unify/statistics.dart';
 import 'package:path/path.dart' as path;
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
